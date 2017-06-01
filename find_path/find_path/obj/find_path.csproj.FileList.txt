@@ -1,0 +1,9 @@
+bin\Debug\find_path.exe
+bin\Debug\find_path.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\find_path.Form1.resources
+obj\Debug\find_path.Properties.Resources.resources
+obj\Debug\find_path.csproj.GenerateResource.Cache
+obj\Debug\find_path.exe
+obj\Debug\find_path.pdb
+bin\Debug\find_path.exe.config
